@@ -1,4 +1,4 @@
-# DTI-HETA database
+# DTI-HETA dataset
 
 As mentioned in the paper, this project will make the dataset publicly available for reference, and we will update it when we have finished as we currently need to collate documentation on the dataset construction methods and dataset descriptions.
 
