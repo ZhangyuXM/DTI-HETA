@@ -4,7 +4,7 @@ As mentioned in the paper, this project will make the dataset publicly available
 
 正如论文中所提到的，本项目将公开数据集以供参考，由于目前需要整理数据集构造方法及数据集描述等文件，因而当整理完毕后我们将进行更新。
 
-Our dataset includes three files:compound_similarity, compound_target_adjacent and target_similarity. Now we have upload the compound_similarity, compound_target_adjacent, but target_similarity is too large to upload， we will find a solution to upload it later.
+Our dataset includes three files:compound_similarity, compound_target_adjacent and target_similarity. Now we have upload the compound_similarity, compound_target_adjacent, but target_similarity is too large to upload， We have split it into three parts and uploaded them separately, please stitch the three target files together when you use them.
 
 Thanks to yamanishi for the another dataset(including e_Amat, e_Gmat and e_Camt). If you want to use their dataset, please cite the following：
 “Yamanishi,Y., Kotera,M., Kanehisa,M., and Goto,S.
